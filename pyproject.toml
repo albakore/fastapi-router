@@ -1,0 +1,16 @@
+[tool.poetry]
+name = "fastapi-router"
+version = "0.0.4"
+description = "Fastapi like Next.js. Efficient Backend, Agile Development."
+authors = ["Kevin Kener <kevink.contacto@gmail.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.11"
+fastapi = "^0.104.1"
+uvicorn = "^0.24.0.post1"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
