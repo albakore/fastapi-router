@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "fastapi-router"
-version = "0.0.4"
+version = "0.0.5"
 description = "Fastapi like Next.js. Efficient Backend, Agile Development."
 authors = ["Kevin Kener <kevink.contacto@gmail.com>"]
 readme = "README.md"
