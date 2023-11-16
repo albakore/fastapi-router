@@ -2,6 +2,13 @@
 
 *Efficient Backend, Agile Development.*
 
+installation from PyPI
+```shell
+
+pip install fastapi-router
+
+```
+
 installation from Test PyPI
 ```shell
 
