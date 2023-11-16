@@ -2,6 +2,13 @@
 
 *Efficient Backend, Agile Development.*
 
+installation from Test PyPI
+```shell
+
+pip install -i https://test.pypi.org/simple/ --extra-index-url https://pypi.python.org/simple/ fastapi-router
+
+```
+
 FastAPI-Router is a plugin for applications built with `FastAPI` that enables the development of backend applications with a workflow similar to Next.js. This means you can create efficient and modern backend applications with FastAPI-Router, taking advantage of its capabilities in a manner akin to the workflow in Next.js.
 
 Example:
